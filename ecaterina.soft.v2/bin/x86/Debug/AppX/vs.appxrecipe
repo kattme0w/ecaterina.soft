@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-28T15:09:01.736</Modified>
+      <Modified>2018-06-29T10:12:41.420</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\ecaterina.soft.v2.exe">
       <PackagePath>entrypoint\ecaterina.soft.v2.exe</PackagePath>
-      <Modified>2018-06-28T15:09:01.183</Modified>
+      <Modified>2018-06-29T10:12:38.267</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\.nuget\packages\coding4fun.toolkit.controls\2.1.8\lib\netcore451\Coding4Fun.Toolkit.Controls.dll">
       <PackagePath>Coding4Fun.Toolkit.Controls.dll</PackagePath>
@@ -615,11 +615,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-06-28T15:09:00.957</Modified>
+      <Modified>2018-06-29T10:12:37.986</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-06-28T15:09:00.957</Modified>
+      <Modified>2018-06-29T10:12:37.987</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -640,7 +640,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\Core\ecaterina.soft.v2.exe">
       <PackagePath>ecaterina.soft.v2.exe</PackagePath>
-      <Modified>2018-06-28T15:09:01.732</Modified>
+      <Modified>2018-06-29T10:12:41.411</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
