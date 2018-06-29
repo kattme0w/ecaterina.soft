@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W8App.ClientLocker.NotificationsExtensions", "W8App.ClientLocker.NotificationsExtensions\W8App.ClientLocker.NotificationsExtensions.csproj", "{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecaterina.soft.v2", "ecaterina.soft.v2\ecaterina.soft.v2.csproj", "{CF5EE358-9648-48A8-B48A-4772C37DA80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Debug|ARM.Build.0 = Debug|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Debug|x64.Build.0 = Debug|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Debug|x86.Build.0 = Debug|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Release|ARM.ActiveCfg = Release|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Release|ARM.Build.0 = Release|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Release|x64.ActiveCfg = Release|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Release|x64.Build.0 = Release|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Release|x86.ActiveCfg = Release|Any CPU
+		{7A80DD8A-B0AC-49F8-9193-0E3AD812FADB}.Release|x86.Build.0 = Release|Any CPU
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Debug|ARM.Build.0 = Debug|ARM
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Debug|x64.ActiveCfg = Debug|x64
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Debug|x64.Build.0 = Debug|x64
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Debug|x64.Deploy.0 = Debug|x64
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Debug|x86.ActiveCfg = Debug|x86
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Debug|x86.Build.0 = Debug|x86
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Debug|x86.Deploy.0 = Debug|x86
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Release|Any CPU.ActiveCfg = Release|x86
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Release|ARM.ActiveCfg = Release|ARM
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Release|ARM.Build.0 = Release|ARM
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Release|ARM.Deploy.0 = Release|ARM
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Release|x64.ActiveCfg = Release|x64
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Release|x64.Build.0 = Release|x64
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Release|x64.Deploy.0 = Release|x64
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Release|x86.ActiveCfg = Release|x86
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Release|x86.Build.0 = Release|x86
+		{CF5EE358-9648-48A8-B48A-4772C37DA80A}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A488960C-6D3A-4EC3-A4C0-3F15CC41B302}
+	EndGlobalSection
+EndGlobal
