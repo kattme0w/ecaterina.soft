@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-29T10:12:41.420</Modified>
+      <Modified>2018-06-29T11:32:44.516</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\ecaterina.soft.v2.exe">
       <PackagePath>entrypoint\ecaterina.soft.v2.exe</PackagePath>
-      <Modified>2018-06-29T10:12:38.267</Modified>
+      <Modified>2018-06-29T11:32:37.780</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\.nuget\packages\coding4fun.toolkit.controls\2.1.8\lib\netcore451\Coding4Fun.Toolkit.Controls.dll">
       <PackagePath>Coding4Fun.Toolkit.Controls.dll</PackagePath>
@@ -505,121 +505,121 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\border-all.svg">
       <PackagePath>Assets\border-all.svg</PackagePath>
-      <Modified>2018-06-28T15:06:52.973</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\border-all.svg">
       <PackagePath>Assets\svg\border-all.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\border-bottom.svg">
       <PackagePath>Assets\svg\border-bottom.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\border-horizontal.svg">
       <PackagePath>Assets\svg\border-horizontal.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\border-inner.svg">
       <PackagePath>Assets\svg\border-inner.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\border-left.svg">
       <PackagePath>Assets\svg\border-left.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\border-none.svg">
       <PackagePath>Assets\svg\border-none.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\border-outside.svg">
       <PackagePath>Assets\svg\border-outside.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\border-right.svg">
       <PackagePath>Assets\svg\border-right.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\border-top.svg">
       <PackagePath>Assets\svg\border-top.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\border-vertical.svg">
       <PackagePath>Assets\svg\border-vertical.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\gauge-0.svg">
       <PackagePath>Assets\svg\gauge-0.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\gauge-100.svg">
       <PackagePath>Assets\svg\gauge-100.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\gauge-25.svg">
       <PackagePath>Assets\svg\gauge-25.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\gauge-50.svg">
       <PackagePath>Assets\svg\gauge-50.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\gauge-75.svg">
       <PackagePath>Assets\svg\gauge-75.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\svg\plus.svg">
       <PackagePath>Assets\svg\plus.svg</PackagePath>
-      <Modified>2015-02-11T17:24:36.000</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-06-27T09:21:22.087</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2018-06-27T07:30:31.309</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-27T07:30:31.309</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-27T07:30:31.309</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-27T07:30:31.309</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-27T07:30:31.309</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-27T07:30:31.309</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-27T07:30:31.309</Modified>
+      <Modified>2018-06-29T10:49:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\ecaterina.soft.v2.xr.xml">
       <PackagePath>ecaterina.soft.v2.xr.xml</PackagePath>
-      <Modified>2018-06-28T15:04:12.371</Modified>
+      <Modified>2018-06-29T11:17:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-06-29T10:12:37.986</Modified>
+      <Modified>2018-06-29T11:32:37.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-06-29T10:12:37.987</Modified>
+      <Modified>2018-06-29T11:32:37.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -636,11 +636,11 @@
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-06-28T15:07:34.404</Modified>
+      <Modified>2018-06-29T11:32:43.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\ecaterina.soft.v2\bin\x86\Debug\Core\ecaterina.soft.v2.exe">
       <PackagePath>ecaterina.soft.v2.exe</PackagePath>
-      <Modified>2018-06-29T10:12:41.411</Modified>
+      <Modified>2018-06-29T11:32:44.507</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

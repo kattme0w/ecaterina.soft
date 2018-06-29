@@ -8,7 +8,64 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid x:ConnectionId='2' x:Name="LayoutRoot" Background="#555555" Width="400" Height="300">
+    <SplitView x:ConnectionId='2' x:Name="MySplitView" DisplayMode="CompactOverlay"  IsPaneOpen="False" 
+               CompactPaneLength="50" OpenPaneLength="150">
+        <SplitView.Pane>
+            <StackPanel Background="Gray">
+                <Button x:ConnectionId='3' x:Name="HamburgerButton" FontFamily="Segoe MDL2 Assets" Content="&#xE700;"
+                    Width="50" Height="50" Background="Transparent" />
+                <StackPanel Orientation="Horizontal">
+                    <Button x:ConnectionId='10' x:Name="MenuButton1" FontFamily="Segoe MDL2 Assets" Content="&#xE825;"
+                    Width="50" Height="50" Background="Transparent"/>
+                    <TextBlock Text="Button 1" FontSize="18" VerticalAlignment="Center" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:ConnectionId='9' x:Name="btn1" FontFamily="Segoe MDL2 Assets"                         Width="50" Height="50" Background="Transparent">
+                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE74D;"   />
+                    </Button>
+                    <TextBlock Text="Button 1" FontSize="18" VerticalAlignment="Center" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:ConnectionId='8' x:Name="btn2" FontFamily="Segoe MDL2 Assets"                         Width="50" Height="50" Background="Transparent">
+                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE80F;"   />
+                    </Button>
+                    <TextBlock Text="Button 1" FontSize="18" VerticalAlignment="Center" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:ConnectionId='7' x:Name="btn3" FontFamily="Segoe MDL2 Assets"                         Width="50" Height="50" Background="Transparent">
+                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE830;"   />
+                    </Button>
+                    <TextBlock Text="Button 1" FontSize="18" VerticalAlignment="Center" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:ConnectionId='6' x:Name="btn4" FontFamily="Segoe MDL2 Assets"                         Width="50" Height="50" Background="Transparent">
+                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE830;"   />
+                    </Button>
+                    <TextBlock Text="Button 1" FontSize="18" VerticalAlignment="Center" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button x:ConnectionId='5' x:Name="btn5" FontFamily="Segoe MDL2 Assets"                         Width="50" Height="50" Background="Transparent">
+                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xEA6A;"   />
+                    </Button>
+                    <TextBlock Text="Button 1" FontSize="18" VerticalAlignment="Center" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button x:ConnectionId='4' x:Name="btn6" FontFamily="Segoe MDL2 Assets"                         Width="50" Height="50" Background="Transparent">
+                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xEBE8;"   />
+                    </Button>
+                    <TextBlock Text="Button 1" FontSize="18" VerticalAlignment="Center" />
+                </StackPanel>
+            </StackPanel>
+        </SplitView.Pane>
+        <SplitView.Content>
+            <Grid>
+                <TextBlock Text="SplitView Basic" FontSize="54" Foreground="White"
+                           HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </SplitView.Content>
+    </SplitView>
+    <!--<Grid x:Name="LayoutRoot" Background="#555555" Width="400" Height="300">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="20*" />
@@ -26,37 +83,41 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         
-        <Button x:ConnectionId='3' Grid.Column="1" Grid.Row="1"                       >
+        <Button Grid.Column="1" Grid.Row="1" Tapped="Button_Tapped">
             <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE774;"   />
         </Button>
-        <!--Add to ok button-->
-        <Button x:ConnectionId='4' Grid.Column="1" Grid.Row="2"                        >
-            <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE73E;"   />
-        </Button>
-        <!--Add to delete-->
-        <Button x:ConnectionId='5' Grid.Column="1" Grid.Row="3"                        >
+        -->
+    <!--Add to ok button-->
+    <!--
+       
+        -->
+    <!--Add to delete-->
+    <!--
+        <Button Grid.Column="1" Grid.Row="3" Tapped="Button_Tapped3">
             <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE74D;"   />
         </Button>
-        <!-- Add to Home-->
-        <Button x:ConnectionId='6' Grid.Column="1" Grid.Row="4"                        >
+        -->
+    <!-- Add to Home-->
+    <!--
+        <Button Grid.Column="1" Grid.Row="4" Tapped="Button_Tapped3">
             <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE80F;"   />
         </Button>
-        <Button x:ConnectionId='7' Grid.Column="1" Grid.Row="4"                        >
+        <Button Grid.Column="1" Grid.Row="4" Tapped="Button_Tapped3">
             <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE80F;"   />
         </Button>
-        <Button x:ConnectionId='8' Grid.Column="1" Grid.Row="4"                        >
+        <Button Grid.Column="1" Grid.Row="4" Tapped="Button_Tapped3">
             <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE80F;"   />
         </Button>
-        <Button x:ConnectionId='9' Grid.Column="1" Grid.Row="5"                        >
+        <Button Grid.Column="1" Grid.Row="5" Tapped="Button_Tapped3">
             <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE830;"   />
         </Button>
-        <Button x:ConnectionId='10' Grid.Column="1" Grid.Row="6"                        >
+        <Button Grid.Column="1" Grid.Row="6" Tapped="Button_Tapped3">
             <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xEA6A;"   />
         </Button>
-        <Button x:ConnectionId='11' Grid.Column="1" Grid.Row="7"                        >
+        <Button Grid.Column="1" Grid.Row="7" Tapped="Button_Tapped3">
             <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xEBE8;"   />
         </Button>
-        <Button x:ConnectionId='12' Grid.Column="2" Grid.Row="6"                        >
+        <Button Grid.Column="2" Grid.Row="6" Tapped="Button_Tapped3">
             <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xEBE8;"   />
         </Button>
 
@@ -67,6 +128,6 @@
         </Image>
 
         <Image Grid.Column="2" Grid.Row="6" Source="Assets/LockScreenLogo.scale-200.png"/>
-    </Grid>
+    </Grid>-->
 </Page>
 

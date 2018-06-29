@@ -11,3 +11,17 @@ C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\generator.tool\bin\Debug\Mic
 C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\generator.tool\obj\Debug\generator.tool.csproj.CopyComplete
 C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\generator.tool\obj\Debug\generator.tool.dll
 C:\Users\ecaterina.smetanca\source\repos\MyFirstApp\generator.tool\obj\Debug\generator.tool.pdb
+C:\Users\Garage\ecaterina.soft\generator.tool\obj\Debug\generator.tool.csprojAssemblyReference.cache
+C:\Users\Garage\ecaterina.soft\generator.tool\obj\Debug\generator.tool.csproj.CoreCompileInputs.cache
+C:\Users\Garage\ecaterina.soft\generator.tool\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Garage\ecaterina.soft\generator.tool\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Garage\ecaterina.soft\generator.tool\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Garage\ecaterina.soft\generator.tool\bin\Debug\generator.tool.dll
+C:\Users\Garage\ecaterina.soft\generator.tool\bin\Debug\generator.tool.pdb
+C:\Users\Garage\ecaterina.soft\generator.tool\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Garage\ecaterina.soft\generator.tool\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Garage\ecaterina.soft\generator.tool\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Garage\ecaterina.soft\generator.tool\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Garage\ecaterina.soft\generator.tool\obj\Debug\generator.tool.csproj.CopyComplete
+C:\Users\Garage\ecaterina.soft\generator.tool\obj\Debug\generator.tool.dll
+C:\Users\Garage\ecaterina.soft\generator.tool\obj\Debug\generator.tool.pdb
